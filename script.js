@@ -1,6 +1,6 @@
 // Configuration Supabase - À REMPLIR AVEC VOS VALEURS
-const SUPABASE_URL = 'YOUR_SUPABASE_URL'; // Remplacez par votre URL Supabase (ex: https://votre-projet.supabase.co)
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY'; // Remplacez par votre clé anonyme
+const SUPABASE_URL = 'aitemjeksasutmypxapq@supabase.co'; // Remplacez par votre URL Supabase (ex: https://votre-projet.supabase.co)
+const SUPABASE_ANON_KEY = 'sb_publishable_eo1pSh2Q5KLRyz7Mrj5fkw_h0XX9iqD'; // Remplacez par votre clé anonyme
 
 // Initialiser Supabase
 const { createClient } = window.supabase;
